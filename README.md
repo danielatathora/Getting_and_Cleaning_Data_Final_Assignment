@@ -44,7 +44,7 @@
  <br />
  <br />
 
-### Sset the feature data column names to be more readable
+### Set the feature data column names to be more readable
  <br />
  <br />
 
@@ -57,9 +57,9 @@
  <br />
 
 ### Group data by SubjectId and Activity averaging the other columns.
-  using the dplyr lobrary 
+  using the dplyr library 
  <br />
  <br />
 
-### Write the results to result.csv
+### Write the results to result.txt
  <br />
